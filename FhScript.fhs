@@ -1,0 +1,6 @@
+(async function(){
+		let i = await	import('./fhapi.js');
+		fromUrl = i.fromUrl;
+new i.inf('gh', 'Figsh -> FSCSS@4.0.1 -> fscss_exec.js');
+		
+})();
